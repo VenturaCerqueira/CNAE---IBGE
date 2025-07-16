@@ -58,7 +58,3 @@ A API retorna informações de classe e subclasse com códigos concatenados e da
     O servidor estará rodando em `http://127.0.0.1:1000`.
 
 ---
-
-## 📚 Documentação da API
-
-Acesse a interface Swagger (OpenAPI UI) em:
